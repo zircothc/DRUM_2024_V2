@@ -14,6 +14,7 @@ I have changed buttons, LEDs, rotary encoder and OLED screen for a TFT screen wi
 About the board:
 It has a I2S DAC with amp ready to attach a speaker.
 In the GUI you can select:
+
 0, external I2S DAC (default)
 1, internal i2S DAC
 2, Both
