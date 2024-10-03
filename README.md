@@ -1,6 +1,7 @@
 # DRUM_2024_V2
 
 ESP32 DRUM SYNTH MACHINE (JC4827W543 C BOARD)
+![f1](https://github.com/user-attachments/assets/2a1553a7-c619-46e3-85d1-9accf7e8d883)
 
 This is my DRUM SYNTH LOFI MACHINE for Guition ESP32 JC4827W543 (Capacitive touch model)
 
@@ -27,6 +28,7 @@ In the GUI you can select:
 - Guition JC4827W543 C (ESP32 S3, LCD ILI9488, touch panel GT911)
   https://s.click.aliexpress.com/e/_EzVhSEH
 - PCM5102A I2s DAC (for better sound output) or a speaker (with that tiny conector)
+![f2](https://github.com/user-attachments/assets/50792e90-f98d-4648-8dcf-d77ab2399e5a)
 
 # Software:
 
