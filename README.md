@@ -48,9 +48,13 @@ Necessary Libraries:
 
 Can't find schematics of the board but info about pinout is avaliable throught other projects.
 External PINs used to wired PCM5102 module:
+
 IO6 - I2S_WS_PIN - LCK
+
 IO7 - I2S_BCK_PIN - BCK
+
 IO15 - I2S_DATA_OUT_PIN - DIN
+
 
 Cheat sheet style PDF V1 version is fully compatible. Added function to select audio out.
 
