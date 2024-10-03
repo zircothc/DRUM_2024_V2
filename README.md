@@ -5,6 +5,8 @@ ESP32 DRUM SYNTH MACHINE (JC4827W543 C BOARD)
 
 This is my DRUM SYNTH LOFI MACHINE for Guition ESP32 JC4827W543 (Capacitive touch model)
 
+Video demo:
+
 All features from DRUM_2024_V1 are ported to this system.
 
 https://github.com/zircothc/DRUM_2004_V1
