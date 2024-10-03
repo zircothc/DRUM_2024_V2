@@ -24,7 +24,8 @@ In the GUI you can select:
 
 # Hardware:
 
-- Guition JC4827W543 C (ESP32 S3, LCD ILI9488, touch panel GT911) https://s.click.aliexpress.com/e/_EzVhSEH
+- Guition JC4827W543 C (ESP32 S3, LCD ILI9488, touch panel GT911)
+  https://s.click.aliexpress.com/e/_EzVhSEH
 - PCM5102A I2s DAC (for better sound output) or a speaker (with that tiny conector)
 
 # Software:
