@@ -284,12 +284,12 @@ void fillBPOS() {
     for (byte c = 0; c < Bcolumns; c++) {
       // x - left
       BPOS[counter][0] = x_accumulated + Bspace;
-      x_accumulated = x_accumulated + Bspace + Bheight;
+      x_accumulated = x_accumulated + Bspace + Bwidth;
       BPOS[counter][1] = y_accumulated + Bspace;
       counter++;
     }
     x_accumulated = 0;
-    y_accumulated = y_accumulated + Bspace + Bwidth;
+    y_accumulated = y_accumulated + Bspace + Bheight;
     if (counter == 24) y_accumulated = y_accumulated + 30;
   }
 }
