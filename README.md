@@ -7,8 +7,8 @@ This is my DRUM SYNTH LOFI MACHINE for Guition ESP32 JC4827W543 (Capacitive touc
 
 
 Video demo:
-[![IMG_20240406_150231]
-(https://youtu.be/qMTG5fs26MI?si=bRgWT90epzYrFNN7)
+https://youtu.be/qMTG5fs26MI?si=py-24suVv46LcCxw
+
 
 All features from DRUM_2024_V1 are ported to this system.
 
