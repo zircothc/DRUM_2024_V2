@@ -34,8 +34,8 @@ Arduino_GFX *gfx = new Arduino_NV3041A(bus, GFX_NOT_DEFINED /* RST */, 0 /* rota
 #endif
 
 #include <bb_captouch.h>
-#include <Wire.h>
-#define LCD DISPLAY_CYD_543
+//#include <Wire.h>
+//#define LCD DISPLAY_CYD_543
 #define TOUCH_SDA 8
 #define TOUCH_SCL 4
 #define TOUCH_INT 3
